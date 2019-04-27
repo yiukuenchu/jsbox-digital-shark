@@ -123,7 +123,7 @@ function renderUI() {
                 textColor: $color("#2c2c2c")
             },
             layout: function (make, view) {
-                make.top.equalTo($("droplet").bottom).offset(10)
+                make.top.equalTo($("droplet").bottom).offset(15)
                 make.height.equalTo(20)
                 make.left.right.equalTo(15)
             }
