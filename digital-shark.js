@@ -48,7 +48,7 @@ function getDropletInfo(token) {
             var dropletImage = dropletGeneralInfo.image;
             var dropletRegionInfo = dropletGeneralInfo.region;
 
-            $("droplet_os").text = "# IP: " + v4Info.ip_address + " " + dropletImage.slug;
+            $("droplet_os").text = "# IP: " + v4Info[0].ip_address + "   " + dropletImage.slug;
             $("droplet_id_info").text = dropletGeneralInfo.id;
             $("droplet_name_info").text = dropletGeneralInfo.name;
             if (dropletGeneralInfo.vcpus == 1) {
