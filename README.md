@@ -1,5 +1,7 @@
 ![banner](assets/digital-shark-banner.png)
 
+<br>
+
 # 🦈 Digital-Shark
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
@@ -13,7 +15,7 @@ Digital-Shark 利用 [DigitalOcean](https://developers.digitalocean.com/) 官方
 建议把 Digital-Shark 添加到手机负一屏的 JSBox 小组件中。
 
 <div align=center>
-    <img src="assets/digital-shark-jietu.JPG" width="40%"/>
+    <img src="assets/digital-shark-jietu.JPG" width="30%"/>
 </div>
 
 <br>
