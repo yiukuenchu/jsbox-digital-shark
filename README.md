@@ -36,7 +36,7 @@ Digital-Shark 利用 [DigitalOcean](https://developers.digitalocean.com/) 官方
 curl -X GET -H "Content-Type: application/json" -H "Authorization: Bearer YOUR_TOKEN" "https://api.digitalocean.com/v2/droplets"
 ```
 
-记得将上述代码中的 ```YOUR_TOKEN``` 替换成你在第 1 步中生成的 Token。  返回的结果是你的账户中所有的 Droplet 服务器的信息，其中包括服务器的 ID，位置应该服务器信息在开头。记下你想要观测的 DropletID。
+记得将上述代码中的 ```YOUR_TOKEN``` 替换成你在第 1 步中生成的 Token。  返回的结果是你的账户中所有的 Droplet 服务器的信息，其中包括服务器的 ID，位置应该在服务器信息的开头。记下你想要观测的 DropletID。
 
 <br>
 
