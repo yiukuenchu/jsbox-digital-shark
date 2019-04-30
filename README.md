@@ -15,7 +15,7 @@ Digital-Shark 利用 [DigitalOcean](https://developers.digitalocean.com/) 官方
 [下载 Digital-Shark](https://xteko.com/redir?name=Digital-Shark&icon=icon_052.png&url=https://raw.githubusercontent.com/yiukuenchu/jsbox-digital-shark/master/digital-shark.js)
 
 <div align=center>
-    <img src="assets/digital-shark-jietu.JPG" width="30%"/>
+    <img src="assets/digital-shark-jietu.JPG" width="25%"/>
 </div>
 
 <br>
